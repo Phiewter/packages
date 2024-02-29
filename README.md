@@ -1,8 +1,16 @@
 # packages
-Every package I encountered (and need for future projects)
+Every package I encountered, and need for future projects (it's true)
 
 ## HTML
 
 ## CSS
 
-## Javascript
+## JavaScript
+
+## TypeScript
+
+## React
+
+## Python
+
+## Rust
